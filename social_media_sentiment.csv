@@ -1,0 +1,5 @@
+text,sentiment
+"I love the new iPhone!",positive
+"This product is terrible!",negative
+"Not sure how I feel about this.",neutral
+...
